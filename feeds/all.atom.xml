@@ -1,3 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2020-03-15T00:03:00+00:00</updated><entry><title>Hello world!</title><link href="/hello.html" rel="alternate"></link><published>2020-03-15T00:03:00+00:00</published><updated>2020-03-15T00:03:00+00:00</updated><author><name></name></author><id>tag:None,2020-03-15:/hello.html</id><content type="html">&lt;p&gt;Hello from Pelican!&lt;/p&gt;
-</content><category term="misc"></category></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>A Pelican Blog</title><link href="/" rel="alternate"></link><link href="/feeds/all.atom.xml" rel="self"></link><id>/</id><updated>2020-03-15T00:03:00+00:00</updated><entry><title>Истории одного города</title><link href="/hello.html" rel="alternate"></link><published>2020-03-15T00:03:00+00:00</published><updated>2020-03-15T00:03:00+00:00</updated><author><name></name></author><id>tag:None,2020-03-15:/hello.html</id><content type="html">&lt;p&gt;Специально воображаемый корреспондент
+и саецгпрпж МУП ЖЭК&lt;/p&gt;
+</content><category term="stories"></category></entry></feed>
